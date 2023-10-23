@@ -2,7 +2,7 @@
 CIKM'2023: Counterfactual Monotonic Knowledge Tracing for Assessing Students' Dynamic Mastery of Knowledge Concepts.
 (Tensorflow implementation for CMKT)
 
-This is the code for the paper: [Counterfactual Monotonic Knowledge Tracing for Assessing Students' Dynamic Mastery of Knowledge Concepts](https://arxiv.org/pdf/2308.03377.pdf)  
+This is the code for the paper: [Counterfactual Monotonic Knowledge Tracing for Assessing Students' Dynamic Mastery of Knowledge Concepts](https://dl.acm.org/doi/10.1145/3583780.3614827)  
 
 If you find this code is useful for your research, please cite as:
 ```
